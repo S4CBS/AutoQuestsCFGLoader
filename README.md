@@ -21,3 +21,6 @@
 - Completion of quests for opposite roles, meaning you can complete the killer's quest as a survivor.
 - Ability to select a priority archive for completion
 - (Soon) Ability to set a blood limit for completing quests.
+
+# Buy program: https://funpay.com/users/3833888/
+# Купить программу: https://funpay.com/users/3833888/

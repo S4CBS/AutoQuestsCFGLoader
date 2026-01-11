@@ -99,41 +99,6 @@
                     "storyId": "Tome01"
                 }
             },
-            "15": {
-                "node": {
-                    "level": 1,
-                    "nodeId": "nodeKillerChallenge02",
-                    "storyId": "Tome01"
-                }
-            },
-            "16": {
-                "node": {
-                    "level": 1,
-                    "nodeId": "nodeKillerTask02",
-                    "storyId": "Tome01"
-                }
-            },
-            "17": {
-                "node": {
-                    "level": 1,
-                    "nodeId": "nodeKillerChallenge03",
-                    "storyId": "Tome01"
-                }
-            },
-            "18": {
-                "node": {
-                    "level": 1,
-                    "nodeId": "nodeKillerTask03",
-                    "storyId": "Tome01"
-                }
-            },
-            "19": {
-                "node": {
-                    "level": 1,
-                    "nodeId": "nodeKillerChallenge05",
-                    "storyId": "Tome01"
-                }
-            },
             "20": {
                 "node": {
                     "level": 3,
@@ -12761,6 +12726,13 @@
                 "node": {
                     "level": 3,
                     "nodeId": "node_T3L4_28",
+                    "storyId": "Tome03"
+                }
+            },
+            "40": {
+                "node": {
+                    "level": 3,
+                    "nodeId": "node_T3L4_26",
                     "storyId": "Tome03"
                 }
             }

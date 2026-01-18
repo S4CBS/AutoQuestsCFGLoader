@@ -87,7 +87,7 @@
             },
             "13": {
                 "node": {
-                    "level": 0,
+                    "level": 2,
                     "nodeId": "nodeSurvivorChallenge03",
                     "storyId": "Tome01"
                 }
@@ -7756,7 +7756,7 @@
             },
             "5": {
                 "node": {
-                    "level": 0,
+                    "level": 2,
                     "nodeId": "nodeKillerChallenge04",
                     "storyId": "Tome01"
                 }
@@ -7784,7 +7784,7 @@
             },
             "9": {
                 "node": {
-                    "level": 2,
+                    "level": 0,
                     "nodeId": "nodeKillerChallenge03",
                     "storyId": "Tome01"
                 }
